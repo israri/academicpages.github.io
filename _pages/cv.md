@@ -36,7 +36,7 @@ Skills
   * Sub-skill 2.3
 * Skill 3
 
-Posts
+Anjur
 ======
   <ul>{% capture written_year %}'None'{% endcapture %}
 {% for post in site.posts %}
