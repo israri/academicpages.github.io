@@ -38,7 +38,7 @@ Skills
 
 Posts
 ======
-  <ul>{% for post in site.year-archive %}
+  <ul>{% for post in site.portfolio %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
