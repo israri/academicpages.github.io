@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Israr / Site Title"
+title                    : "Israr / Test 1"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
