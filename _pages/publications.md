@@ -14,3 +14,9 @@ author_profile: true
 {% for post in site.publications reversed %}
   {% include archive-single.html %}
 {% endfor %}
+
+Computational
+------
+{% for post in site.publicationsComp reversed %}
+  {% include archive-single.html %}
+{% endfor %}
