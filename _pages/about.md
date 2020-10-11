@@ -20,11 +20,11 @@ redirect_from:
 
 <!-- About
 ====== -->
-Like many other researchers, I too put up my bio over in the web. I am a computational scientist and currently based at Universitas Syiah Kuala, Indonesia. I did all my degree in Mechanical Engineering but my passion has always been all things computational science and especially Artificial Intelligence. I specialize in agent-based modeling (ABM), multi-physics modeling and scientific computing (think of DAE, FEA, data visualization, etc). I have utilized these methods for projects in computational biology and materials science. I personally have interests in widely different field (I went from a project on corrosion to inflammation), and I look forward to interdisciplinary research.
+Like many other researchers, I too put up my bio over in the web! I am a computational scientist and currently based at Universitas Syiah Kuala, Indonesia. I did all my degree in Mechanical Engineering but my passion has always been all things computational science and especially Artificial Intelligence. I specialize in agent-based modeling (ABM), multi-physics modeling and scientific computing (think of DAE, FEA, data visualization, etc). I have utilized these methods for projects in computational biology and materials science. I personally have interests in widely different field (I went from a project on corrosion to inflammation), and I look forward to interdisciplinary research.
 
 My Background and History
 ======
-I received my Ph.D from the University of Georgia College of Engineering. I am a Fulbright alumni and I received M.Sc thanks to the Fulbright Scholarship. I also received various scholarships to finish my B.Eng from Universitas Syiah Kuala as part of 2004 Indian Ocean Tsunami relief program. I survived the tsunami and I benefited from social program.
+I received my Ph.D from the University of Georgia College of Engineering. I am a Fulbright alumni and I received my M.Sc thanks to the Fulbright Scholarship. I also received various scholarships to finish my B.Eng from Universitas Syiah Kuala as part of 2004 Indian Ocean Tsunami relief program. I survived the tsunami and I benefited from social programs.
 
 <!-- My Research
 ====== -->
