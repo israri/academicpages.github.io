@@ -1,6 +1,6 @@
-<!-- ---
+---
 permalink: /
-title: "Latest Post "
+title: "Latest Post"
 excerpt: "About me"
 author_profile: true
 redirect_from:
@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-<ul>{% capture written_year %}'None'{% endcapture %}
+<!-- <ul>{% capture written_year %}'None'{% endcapture %}
 {% for post in site.posts limit:3 %}
   {% capture year %}{{ post.date | date: '%Y' }}{% endcapture %}
   {% if year != written_year %}
