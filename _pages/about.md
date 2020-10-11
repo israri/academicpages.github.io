@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Latest Post"
+title: "About"
 excerpt: "About me"
 author_profile: true
 redirect_from:
@@ -18,9 +18,14 @@ redirect_from:
   {% include archive-single.html %}
 {% endfor %}</ul> -->
 
-About
+<!-- About
+====== -->
+Like many other researchers, I too put up my bio over in the web. I am a computational scientist and currently based at Universitas Syiah Kuala, Indonesia. I did all my degree in Mechanical Engineering but my passion has always been all things computational science and especially Artificial Intelligence. I specialize in agent-based modeling (ABM), multi-physics modeling and scientific computing (think of DAE, FEA, data visualization, etc). I have utilized these methods for projects in computational biology and materials science. I personally have interests in widely different field (I went from a project on corrosion to inflammation), and I look forward to interdisciplinary research.
+
+<!-- My Background and History
 ======
-Like many other researchers, I too put up my bio over in the web. I am a computational scientist and currently based at Universitas Syiah Kuala, Indonesia. I did all my degree in Mechanical Engineering but my passion has always been all things computational science and especially Artificial Intelligence. I specialize in agent-based modeling (ABM), multi-physics modeling and scientific computing (think of DAE, FEA, data visualization, etc). I have utilized these methods for projects in computational biology and materials science. I personally have interests in widely different field (I went from a project about corrosion to inflammation) and I look forward to interdisciplinary research.
+I received my Ph.D from the University of Georgia College of Engineering, and my M.Sc from Virginia Commonwealth University. I am a Fulbright alumni.  -->
+
 
 <!-- My research attempts to frame analyses in Materials Science into information science paradigm. I -->
 
