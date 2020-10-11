@@ -1,4 +1,4 @@
----
+<!-- ---
 permalink: /
 title: "Latest Post "
 excerpt: "About me"
@@ -16,7 +16,7 @@ redirect_from:
     {% capture written_year %}{{ year }}{% endcapture %}
   {% endif %}
   {% include archive-single.html %}
-{% endfor %}</ul>
+{% endfor %}</ul> -->
 
 About
 ======
