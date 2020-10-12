@@ -247,7 +247,7 @@ defaults:
   # _publicationsComp
   - scope:
       path: ""
-      type: publications
+      type: publicationsComp
     values:
       layout: single
       author_profile: true
