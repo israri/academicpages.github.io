@@ -18,6 +18,6 @@ Computational
   {% include archive-single.html %}
 {% endfor %} -->
 
-{% for post in site.publicationsComp reversed %}
+{% for post in site.publications/publicationsComp reversed %}
   {% include archive-single.html %}
 {% endfor %}
