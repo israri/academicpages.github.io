@@ -33,10 +33,15 @@ Computational
 ------
 * Agent-Based Model
 * Multiphysics modeling
-* Finite Element Analysis
-* Boundary Element Analysis
+* Numerical Methods  
+  * Finite Element Analysis
+  * Boundary Element Analysis
+  * Differential Algebraic Equations (DAE) System
 * Statistical Learning
 * Image Processing
+* Optimization
+  * Particle Swarm Optimization
+* Network Model
 <!-- * Finite Element Analysis
   * Sub-skill 2.1
   * Sub-skill 2.2
