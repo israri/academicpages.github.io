@@ -178,8 +178,12 @@ collections:
   teaching:
     output: true
     permalink: /:collection/:path/
+  publications_dir: publications
   publications:
-    output: true
+    pub2:
+      output: true
+    publicationsComp:
+      output: true
     permalink: /:collection/:path/
   portfolio:
     output: true
@@ -187,9 +191,9 @@ collections:
   talks:
     output: true
     permalink: /:collection/:path/
-  publicationsComp:
-    output: true
-    permalink: /:collection/:path/
+  # publicationsComp:
+  #   output: true
+  #   permalink: /:collection/:path/
 
 
 # Defaults
