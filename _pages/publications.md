@@ -22,10 +22,9 @@ Computational Biology
   {% include archive-single.html %}
 {% endfor %} -->
 
-{% for post in site.publications/pub2 reversed %}
-  {% include archive-single.html %}
-{% endfor %}
-
 
 Materials Science
 ------
+{% for post in site.pubmtrsci reversed %}
+  {% include archive-single.html %}
+{% endfor %}
