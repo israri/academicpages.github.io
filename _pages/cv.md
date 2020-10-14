@@ -29,6 +29,7 @@ Work experience
 
 Skills
 ======
+
 Computational
 ------
 * Agent-Based Model
@@ -42,10 +43,7 @@ Computational
 * Optimization
   * Particle Swarm Optimization
 * Network Model
-<!-- * Finite Element Analysis
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3 -->
+
 Programming
 ------
 * MATLAB

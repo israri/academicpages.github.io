@@ -5,11 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-{% if israrbmi.googlescholar %}
-  You can also find my articles on <u><a href="{{israrbmi.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
-
-<!-- You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a></u> and <u><a href="{{author.researchgate}}">my ResearchGate profile</a>.</u> -->
+You can also find my articles on my <u><a href="https://scholar.google.com/citations?hl=en&user=y3xCsdkAAAAJ">Google Scholar profile</a></u> and <u><a href="https://www.researchgate.net/profile/Israr_Bin_M_Ibrahim">my ResearchGate profile</a>.</u>
 
 {% include base_path %}
 
