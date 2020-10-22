@@ -10,7 +10,7 @@ You can also find my articles on my <u><a href="https://scholar.google.com/citat
 {% include base_path %}
 
 Agent-Based Model
-------
+======
 {% for post in site.pubabm reversed %}
   {% include archive-single.html %}
 {% endfor %}
@@ -18,7 +18,7 @@ Agent-Based Model
 ------------------------------------------------------------
 
 Computational Biology
-------
+======
 {% for post in site.pubcombio reversed %}
   {% include archive-single.html %}
 {% endfor %}
@@ -26,7 +26,7 @@ Computational Biology
 ------------------------------------------------------------
 
 Materials Science
-------
+======
 {% for post in site.pubmtrsci reversed %}
   {% include archive-single.html %}
 {% endfor %}
