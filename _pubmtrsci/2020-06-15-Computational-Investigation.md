@@ -2,7 +2,7 @@
 title: "Computational Investigation of Interface Stresses in Duplex Structure Stainless Steels"
 collection: pubmtrsci
 permalink: /publication/2020-06-15-Computational-Investigation
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
+excerpt: 'Feed a 2D image directly into a Finite Element Analysis solver'
 date: 2020-06-15
 venue: 'Journal of Materials Engineering and Performance'
 paperurl: 'https://doi.org/10.1007/s11665-020-04877-9'
