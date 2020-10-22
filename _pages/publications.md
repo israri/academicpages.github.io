@@ -17,7 +17,7 @@ Agent-Based Model
 
 Computational Biology
 ------
-{% for post in site.pubcombio reversed %}
+{% for post in site.pubmtrsci reversed %}
   {% include archive-single.html %}
 {% endfor %}
 
