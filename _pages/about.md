@@ -37,6 +37,7 @@ I am also interested in investigating inflammation (an ABM in general) as an inf
 
 <!-- Materials Informatics
 ------
+
 This is started when I found it was difficult to import complex shapes of stainless steel phases (ferrite and austenite) into a FEM software that starts with 'A' and ends with "S". So I decided to make a code
 
 My colleague has a library of SEM images of atmospheric corrosion products. The atmospheric corrosion products seem to
