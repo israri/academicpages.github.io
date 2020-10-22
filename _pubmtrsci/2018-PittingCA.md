@@ -1,7 +1,7 @@
 ---
 title: "Pitting corrosion as a mixed system: coupled deterministic-probabilistic simulation of pit growth"
 collection: pubmtrsci
-permalink: /publication/2018-PittingCA
+permalink: /publication/2018-pittingca
 excerpt: 'How pitting corrosion can be a cellular automaton'
 date: 2018-01-01
 venue: 'IOP Conference Series: Materials Science and Engineering'
