@@ -28,8 +28,10 @@ I received my Ph.D from the University of Georgia College of Engineering. I am a
 
 My Research
 ======
+
 Agent-Based Model (ABM)
 ------
+
 ABM is a model of a system with many independent, interacting elements (think of schools of fish, flocks of bird, swarms of bee, or human crowd in a Caravan Palace's concert in Paris). I developed an ABM tool originally for simulation of inflammatory response. This tool consists of: 1) fixed agents (originally the epithelial cells), 2) mobile agents (originally the motile cells) 3) diffusion-reaction module (originally the cytokines dynamics) 4) elasticity and fiber module (originally represents fibrous protein, its growth, and the physics of elasticity). I currently attempt to coopt this code for other problems, by repurposing each modules. Latest attempt: simple cancer growth model.
 I am also interested in investigating inflammation (an ABM in general) as an information processing system.
 
