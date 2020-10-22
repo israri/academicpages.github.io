@@ -20,14 +20,34 @@ redirect_from:
 
 <!-- About
 ====== -->
-Like many other researchers, I too put up my bio over in the web! I am a computational scientist and currently based at Universitas Syiah Kuala, Indonesia. I received all my degrees in Mechanical Engineering but my passion has always been all things computational science and especially Artificial Intelligence. I specialize in agent-based modeling (ABM), multi-physics modeling and scientific computing (think of DAE, FEA, data visualization, etc). I have utilized these methods for projects in computational biology and materials science. I personally have interests in widely different field (I went from a project on corrosion to inflammation), and I look forward to interdisciplinary research.
+Like many other researchers, I too put up my bio over in the web! I am a computational science researcher and currently based at Universitas Syiah Kuala, Indonesia. I received all my degrees in Mechanical Engineering but my passion has always been all things computational science and especially Artificial Intelligence. I specialize in agent-based modeling (ABM), multi-physics modeling and scientific computing (think of DAE, FEA, data visualization, etc). I have utilized these methods for projects in computational biology and materials science. I personally have interests in widely different field (I went from a project on corrosion to inflammation), and I look forward to interdisciplinary research.
 
 My Background and History
 ======
-I received my Ph.D from the University of Georgia College of Engineering. I am a Fulbright alumni and I received my M.Sc thanks to the Fulbright Scholarship. I also received various scholarships to finish my B.Eng from Universitas Syiah Kuala as part of 2004 Indian Ocean Tsunami relief program. I survived the tsunami and I benefited from social programs.
+I received my Ph.D from the University of Georgia College of Engineering. I am a Fulbright alumni and I received my M.Sc from Virginia Commonwealth University, thanks to the Fulbright Scholarship. I also received various scholarships to finish my B.Eng from Universitas Syiah Kuala as part of 2004 Indian Ocean Tsunami relief program. I survived the tsunami and I benefited from social programs.
 
-<!-- My Research
-====== -->
+My Research
+======
+Agent-Based Model (ABM)
+------
+ABM is a model of a system with many independent, interacting elements (think of schools of fish, flocks of bird, swarms of bee, or human crowd in a Caravan Palace's concert in Paris). I developed an ABM tool originally for simulation of inflammatory response. This tool consists of: 1) fixed agents (originally the epithelial cells), 2) mobile agents (originally the motile cells) 3) diffusion-reaction module (originally the cytokines dynamics) 4) elasticity and fiber module (originally represents fibrous protein, its growth, and the physics of elasticity). I currently attempt to coopt this code for other problems, by repurposing each modules. Latest attempt: simple cancer growth model.
+I am also interested in investigating inflammation (an ABM in general) as an information processing system.
+
+<!-- Materials Informatics
+------
+This is started when I found it was difficult to import complex shapes of stainless steel phases (ferrite and austenite) into a FEM software that starts with 'A' and ends with "S". So I decided to make a code
+
+My colleague has a library of SEM images of atmospheric corrosion products. The atmospheric corrosion products seem to
+
+What I am interested in here is to apply informatics paradigm for materials science, to view materials in terms of information science. Further question is: can we model mechanics of materials in terms of information flow or as an information processing system?
+
+Multi-Physics Modeling
+------
+
+
+Multi-Physics Modeling
+------ -->
+
 
 
 <!-- My research attempts to frame analyses in Materials Science into information science paradigm. I -->

@@ -11,12 +11,15 @@ You can also find my articles on my <u><a href="https://scholar.google.com/citat
 
 Agent-Based Model
 ------
+{% for post in site.pubabm reversed %}
+  {% include archive-single.html %}
+{% endfor %}
 
 Computational Biology
 ------
-<!-- {% for post in site.publications reversed %}
+{% for post in site.pubcombio reversed %}
   {% include archive-single.html %}
-{% endfor %} -->
+{% endfor %}
 
 Materials Science
 ------

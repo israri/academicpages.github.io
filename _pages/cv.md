@@ -63,7 +63,7 @@ Misc
 
 Publications
 ======
-  <ul>{% for post in site.publications %}
+  <ul>{% for post in site.pubabm & site.pubcombio %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
