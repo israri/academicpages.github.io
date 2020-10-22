@@ -17,12 +17,12 @@ Agent-Based Model
 
 Computational Biology
 ------
-{% for post in site.pubmtrsci reversed %}
+{% for post in site.pubcombio reversed %}
   {% include archive-single.html %}
 {% endfor %}
 
-<!-- Materials Science
+Materials Science
 ------
 {% for post in site.pubmtrsci reversed %}
   {% include archive-single.html %}
-{% endfor %} -->
+{% endfor %}

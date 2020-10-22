@@ -190,6 +190,12 @@ collections:
   pubmtrsci:
     output: true
     permalink: /:collection/:path/
+  pubcombio:
+    output: true
+    permalink: /:collection/:path/
+  pubabm:
+    output: true
+    permalink: /:collection/:path/
 
 
 # Defaults
