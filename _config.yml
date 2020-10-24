@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Israr Ibrahim"
+  name             : "Israr M.I."
   avatar           : "profile.jpg"
   bio              : "Iterating the game of life one day at a time"
   location         : "Indonesia"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=Israr+Ibrahim"
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=y3xCsdkAAAAJ"
-  email            :
+  email            : #"israrbmi [at] gmail.com"
   researchgate     :  "www.researchgate.net/profile/Israr_Bin_M_Ibrahim"
   uri              :
   bitbucket        :
@@ -253,15 +253,6 @@ defaults:
       layout: talk
       author_profile: true
       share: true
-  # _publicationsComp
-  - scope:
-      path: ""
-      type: publicationsComp
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comments: true
 
 # Sass/SCSS
 sass:

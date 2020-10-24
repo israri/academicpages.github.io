@@ -17,15 +17,25 @@ Education
 
 Work experience
 ======
-* 2020 - Present: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Spring - Summer 2020: Postdoctoral Researcher
+  * University of Georgia
+  * Duties included: Developed image-based FEA
+  * Supervisor: Prof Ramana Pidaparti
 
 * Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+  * University of Georgia
+  * Duties included:
+  * Supervisor: Prof Ramana Pidaparti
+
+  * Fall 2015: Teaching Assistant
+    * University of Georgia
+    * Duties included:
+    <!-- * Supervisor: Prof Ramana Pidaparti -->
+
+  * Fall 2015: Research Assistant
+    * CCRG Lab, Universitas Syiah Kuala
+    * Duties included:
+
 
 Skills
 ======

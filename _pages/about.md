@@ -20,11 +20,14 @@ redirect_from:
 
 <!-- About
 ====== -->
-Like many other researchers, I too put up my bio over in the web! I am a computational science researcher and currently based at Universitas Syiah Kuala, Indonesia. I received all my degrees in Mechanical Engineering but my passion has always been all things computational science and especially Artificial Intelligence. I specialize in agent-based modeling (ABM), multi-physics modeling and scientific computing (think of DAE, FEA, data visualization, etc). I have utilized these methods for projects in computational biology and materials science. I personally have interests in widely different field (I went from a project on corrosion to inflammation), and I look forward to interdisciplinary research.
+I am a computational science researcher and currently based at Universitas Syiah Kuala, Indonesia. I received all my degrees in Mechanical Engineering but my passion has always been all things computational science and especially Artificial Intelligence. I specialize in agent-based modeling (ABM), multi-physics modeling and scientific computing (think of DAE, FEA, data visualization, etc). I have utilized these methods for projects in computational biology and materials science. I personally have interests in widely different field (I went from a project on corrosion to inflammation), and I look forward to interdisciplinary research.
+
+##### Fun Fact!
+I have a single name: I S R A R. But I got a bit of bureaucratic problem with single name. And due to some occasion, I had to add my father's and my grandfather's name. So the name you see in some of my papers is the names of three generations of person in a family tree.
 
 My Background and History
 ======
-I received my Ph.D from the University of Georgia College of Engineering. I am a Fulbright alumni and I received my M.Sc from Virginia Commonwealth University, thanks to the Fulbright Scholarship. I also received various scholarships to finish my B.Eng from Universitas Syiah Kuala as part of 2004 Indian Ocean Tsunami relief program. I survived the tsunami and I benefited from social programs.
+I received my Ph.D from the University of Georgia College of Engineering. I am a Fulbright alumni and I received my M.Sc from Virginia Commonwealth University thanks to the Fulbright Scholarship. I also received various scholarships to finish my B.Eng from Universitas Syiah Kuala as part of 2004 Indian Ocean Tsunami relief program. I survived the tsunami and I benefited from social programs.
 
 My Research
 ======
@@ -32,17 +35,62 @@ My Research
 Agent-Based Model (ABM)
 ------
 
-ABM is a model of a system with many independent, interacting elements (think of schools of fish, flocks of bird, swarms of bee, or human crowd in a Caravan Palace's concert in Paris). I developed an ABM tool originally for simulation of inflammatory response. This tool consists of: 1) fixed agents (originally the epithelial cells), 2) mobile agents (originally the motile cells) 3) diffusion-reaction module (originally the cytokines dynamics) 4) elasticity and fiber module (originally represents fibrous protein, its growth, and the physics of elasticity). I currently attempt to coopt this code for other problems, by repurposing each modules. Latest attempt: simple cancer growth model.
+ABM is a model of systems with many independent, interacting elements (think of schools of fish, flocks of bird, swarms of bee, or human crowd in a Caravan Palace's live in Paris). I developed an ABM tool originally for simulation of inflammatory response. This tool consists of four elements: 1) fixed agents (originally the epithelial cells), 2) mobile agents (originally the motile cells) 3) diffusion-reaction module (originally the cytokines dynamics) 4) elasticity and fiber module (originally represents fibrous protein, its growth, and the physics of elasticity). I currently attempt to co-opt this code for other problems, by repurposing each module. Latest attempt: simple cancer growth model.
 I am also interested in investigating inflammation (an ABM in general) as an information processing system.
+
+Materials Informatics
+------
+
+By Materials Informatics, I mean a venture to study materials science with the lens of informatics and machine learning.
+For example, materials science deals with a lot of images of microstructure. These images contain a wide variety complex shapes, a lot of information to make sense of. How do we automate reasoning of these images? How do we automate translation of these images into a PDE/FEA model? Could these images tell us something about the environment that generates them?
+My latest work is image-based Finite Element Analysis where it cuts off the need for rebuilding the models of microstructure shape with CAD software (i.e. "the middle man") to have an appropriate FEA model.
+
+Materials science also involves a lot of inverse analysis because we cannot always probe a phenomenon due to physical barrier. This is the origin of Non-Destructive Evaluation (NDE). For example: investigation of corrosion in concrete wall or cracks in a bridge. Question arises as how much information is needed to properly decide the state of corrosion inside a wall, or progression of fractures inside a bridge. Informatics can help us determining and refining inverse analysis and NDE.
+
+Materials science studies the mechanics occurring in and on a material. Interestingly, these mechanics have inspired machine learning. Annealing is a staple of Materials Science 101, and due to its parallel with optimization, its simulation has been used to find local optima. Mesh and network are staples in today's computer graphics and data science. Due to their spring-like form, Hooke's law is used for network's visualization. What other mechanics in materials could inspire machine learning?
 
 <!-- Materials Informatics
 ------
 
-This is started when I found it was difficult to import complex shapes of stainless steel phases (ferrite and austenite) into a FEM software that starts with 'A' and ends with "S". So I decided to make a code
+By Materials Informatics, I mean a venture to study materials science with the lens of informatics and machine learning.
+For example, materials science deals with a lot of images of microstructure. These images contain a wide variety complex shapes, a lot of information to make sense of. How do we automate reasoning of these images? How do we automate translation of these images into a PDE/FEA model? Could these images tell us something about the environment that generates them?
+My latest work is image-based Finite Element Analysis where it cuts off the need for rebuilding the models of microstructure shape with CAD software (i.e. "the middle man") to have an appropriate FEA model.
+
+Materials science also involves a lot of inverse analysis because we cannot always probe a phenomenon due to physical barrier. This is the origin of Non-Destructive Evaluation (NDE). For example: investigation of corrosion in concrete wall or cracks in a bridge. Question arises as how much information is needed to properly decide the state of corrosion inside a wall, or progression of fractures inside a bridge. Informatics can help us determining and refining inverse analysis and NDE.
+
+Materials science studies the mechanics occurring in and on a material. Interestingly, these mechanics have inspired machine learning. Annealing is a staple of Materials Science 101, and due to its parallel with optimization, its simulation has been used to find local optima. Mesh and network are staples in today's computer graphics and data science. Due to their spring-like form, Hooke's law is used for network's visualization. What other mechanics in materials could inspire machine learning?
+
+
+Elastic spring system > data visualization
+
+Connection between materials science and machine learning, because mtr sci studies process occuring in materials, and some of the process has parallels with machine learning.
+
+Moreover, some dynamical process in materials science can be represented as by circuit model, such as corrosion. Would
+
+there are many dynamical processes in materials science
+
+that potentially can be a computing substrate. Some processes can be
+
+How do we make more sense of these images, extract more information?
+I was also became aware of my colleague's library of SEM images of atmospheric corrosion products. These are minerals form by chemical interaction of metals (e.g. rebars) with atmospheric elements (e.g. air pollutants). Each mineral (e.g. Geothite) has their unique signature of shape and features.
+
+I am currently developing an image-based PDE model
+
+Does the pattern exhibited by materials microstructure give us information of
+
+Machine learning + materials + complex shapes
+
+Currently I am interested in automating the model preparation of Finite Element Analysis
+
+This was started with a
+This was started with a code that I developed to run elasticity analysis of microstructure images. The code needs to take 2D image,
+
+This was started when I found it was difficult to import complex shapes of stainless steel phases (ferrite and austenite) into a Finite Element (FE) software that starts with an 'A' and ends with an 'S'. So I decided to make a tool that will directly take a 2D image (such as those from microscopy techniques), processes it and converts it into a model appropriate for FE modeling. This is especially feasible today because wide availability of image processing tools and symbolic computing tools that will solve PDEs through FE method.
 
 My colleague has a library of SEM images of atmospheric corrosion products. The atmospheric corrosion products seem to
 
-What I am interested in here is to apply informatics paradigm for materials science, to view materials in terms of information science. Further question is: can we model mechanics of materials in terms of information flow or as an information processing system?
+What I am interested in here is to apply informatics paradigm for materials science, to view materials in terms of information science.
+Taking it a bit Further presents a question: can we model mechanics of materials in terms of information flow or as an information processing system? Most mechanics of materials models are based on continuum mechanics.
 
 Multi-Physics Modeling
 ------
