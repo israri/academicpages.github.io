@@ -23,7 +23,7 @@ redirect_from:
 I am a computational science researcher and currently based at Universitas Syiah Kuala, Indonesia. I received all my degrees in Mechanical Engineering but my passion has always been all things computational science and especially Artificial Intelligence. I specialize in agent-based modeling (ABM), multi-physics modeling and scientific computing (think of DAE, FEA, data visualization, etc). I have utilized these methods for projects in computational biology and materials science. I personally have interests in widely different field (I went from a project on corrosion to inflammation), and I look forward to interdisciplinary research.
 
 ##### Fun Fact!
-I have a single name: I S R A R. But I got a bit of bureaucratic problem with single name. And due to some occasion, I had to add my father's and my grandfather's name. So the name you see in some of my papers is the names of three generations of person in a family tree.
+I have a single name: I S R A R. But I got a bit of bureaucratic problem with a single name. And due to some occasion, I had to add my father's and my grandfather's name. So the name you see in some of my papers is the names of three generations of person in a family tree.
 
 My Background and History
 ======
@@ -44,9 +44,7 @@ Materials Informatics
 By Materials Informatics, I mean a venture to study materials science with the lens of informatics and machine learning.
 For example, materials science deals with a lot of images of microstructure. These images contain a wide variety complex shapes, a lot of information to make sense of. How do we automate reasoning of these images? How do we automate translation of these images into a PDE/FEA model? Could these images tell us something about the environment that generates them?
 My latest work is image-based Finite Element Analysis where it cuts off the need for rebuilding the models of microstructure shape with CAD software (i.e. "the middle man") to have an appropriate FEA model.
-
 Materials science also involves a lot of inverse analysis because we cannot always probe a phenomenon due to physical barrier. This is the origin of Non-Destructive Evaluation (NDE). For example: investigation of corrosion in concrete wall or cracks in a bridge. Question arises as how much information is needed to properly decide the state of corrosion inside a wall, or progression of fractures inside a bridge. Informatics can help us determining and refining inverse analysis and NDE.
-
 Materials science studies the mechanics occurring in and on a material. Interestingly, these mechanics have inspired machine learning. Annealing is a staple of Materials Science 101, and due to its parallel with optimization, its simulation has been used to find local optima. Mesh and network are staples in today's computer graphics and data science. Due to their spring-like form, Hooke's law is used for network's visualization. What other mechanics in materials could inspire machine learning?
 
 <!-- Materials Informatics

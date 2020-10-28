@@ -11,30 +11,35 @@ redirect_from:
 
 Education
 ======
-* B.Eng. in Mechanical Engineering, Universitas Syiah Kuala, 2009
-* M.Sc. in Mechanical Engineering, Virginia Commonwealth University, 2013
 * Ph.D in Mechanical Engineering, University of Georgia, 2019
+* M.Sc. in Mechanical Engineering, Virginia Commonwealth University, 2013
+* B.Eng. in Mechanical Engineering, Universitas Syiah Kuala, 2009
 
 Work experience
 ======
-* Spring - Summer 2020: Postdoctoral Researcher
+<!-- * Aug 2020 - Present: Lecturer
+  * Department of Mechanical Engineering, Universitas Syiah Kuala
+  * Duties included: Instructor of Record: Calculus 101, Introduction to Computational Science
+  <!-- * Supervisor: Prof Ramana Pidaparti --> -->
+
+* Jan 2020 - Jul 2020: Postdoctoral Researcher
   * University of Georgia
-  * Duties included: Developed image-based FEA
+  * Duties included: Developed image-based Finite Element simulation for heterogenous materials
   * Supervisor: Prof Ramana Pidaparti
 
-* Fall 2015: Research Assistant
+* Aug 2016 - Dec 2019: Research Assistant
   * University of Georgia
-  * Duties included:
+  * Duties included: Developed computational models of airway inflammation based on Agent-Based Model and PDE
   * Supervisor: Prof Ramana Pidaparti
 
-  * Fall 2015: Teaching Assistant
-    * University of Georgia
-    * Duties included:
-    <!-- * Supervisor: Prof Ramana Pidaparti -->
+* Aug 2014 - Apr 2019: Teaching Assistant
+  * University of Georgia
+  * Duties included: 	Teaching assistant for Introduction to Computational Engineering aka Matlab 101
+  <!-- * Supervisor: Prof Ramana Pidaparti -->
 
-  * Fall 2015: Research Assistant
-    * CCRG Lab, Universitas Syiah Kuala
-    * Duties included:
+* Aug 2008 - Jul 2011: Research Assistant
+  * CCRG Lab, Universitas Syiah Kuala
+  * Duties included: 	Developed inverse analysis and data pre- and post-processing for detection of infrastructure damage
 
 
 Skills
