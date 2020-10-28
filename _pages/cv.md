@@ -20,7 +20,7 @@ Work experience
 <!-- * Aug 2020 - Present: Lecturer
   * Department of Mechanical Engineering, Universitas Syiah Kuala
   * Duties included: Instructor of Record: Calculus 101, Introduction to Computational Science
-  <!-- * Supervisor: Prof Ramana Pidaparti --> -->
+  <!-- * Supervisor: Prof Ramana Pidaparti -->
 
 * Jan 2020 - Jul 2020: Postdoctoral Researcher
   * University of Georgia
