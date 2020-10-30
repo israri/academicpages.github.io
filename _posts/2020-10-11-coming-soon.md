@@ -6,7 +6,7 @@ tags:
   - placeholder
 ---
 
-The monkeys are typing the blog posts rn
+The monkeys are typing the blog posts right now
 
 #Headings are cool
 #======
