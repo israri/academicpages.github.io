@@ -47,6 +47,14 @@ My latest work is image-based Finite Element Analysis where it cuts off the need
 Materials science also involves a lot of inverse analysis because we cannot always probe a phenomenon due to physical barrier. This is the origin of Non-Destructive Evaluation (NDE). For example: investigation of corrosion in concrete wall or cracks in a bridge. Question arises as how much information is needed to properly decide the state of corrosion inside a wall, or progression of fractures inside a bridge. Informatics can help us determining and refining inverse analysis and NDE.
 Materials science studies the mechanics occurring in and on a material. Interestingly, these mechanics have inspired machine learning. Annealing is a staple of Materials Science 101, and due to its parallel with optimization, its simulation has been used to find local optima. Mesh and network are staples in today's computer graphics and data science. Due to their spring-like form, Hooke's law is used for network's visualization. What other mechanics in materials could inspire machine learning?
 
+<!-- Unconventional Methods in Materials Engineering Analysis
+------
+
+There are many underappreciated  
+
+-->
+
+
 <!-- Materials Informatics
 ------
 
