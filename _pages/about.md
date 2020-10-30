@@ -22,7 +22,7 @@ redirect_from:
 ====== -->
 I am a computational science researcher and currently based at Universitas Syiah Kuala, Indonesia. I received all my degrees in Mechanical Engineering but my passion has always been all things computational science and especially Artificial Intelligence. I specialize in agent-based modeling (ABM), multi-physics modeling and scientific computing (think of DAE, FEA, data visualization, etc). I have utilized these methods for projects in computational biology and materials science. I personally have interests in widely different field (I went from a project on corrosion to inflammation), and I look forward to interdisciplinary research.
 
-#### Fun Fact!
+## Fun Fact!
 I have a single name: I S R A R. But I got a bit of bureaucratic problem with a single name. And due to some occasion, I had to add my father's and my grandfather's name. So the name you see in some of my papers is the names of three generations of person in a family tree.
 
 My Background and History
