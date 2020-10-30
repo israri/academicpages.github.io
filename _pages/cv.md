@@ -12,7 +12,7 @@ redirect_from:
 Education
 ======
 * Ph.D in Mechanical Engineering, University of Georgia, 2019. Dissertation: Informatics Methods for Analysis of Lung Bronchoconstriction and Inflammation
-* M.Sc. in Mechanical Engineering, Virginia Commonwealth University, 2013. Thesis title: Computational Model of Pitting Corrosion
+* M.Sc. in Mechanical Engineering, Virginia Commonwealth University, 2013. Thesis: Computational Model of Pitting Corrosion
 * B.Eng. in Mechanical Engineering, Universitas Syiah Kuala, 2009. Final Project: Development of Boundary Element Analysis for Sacrificial Anode Corrosion Pro-tection Simulation
 
 Work experience
