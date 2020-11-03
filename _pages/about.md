@@ -36,16 +36,18 @@ Agent-Based Model (ABM)
 ------
 
 ABM is a model of systems with many independent, interacting elements (think of schools of fish, flocks of bird, swarms of bee, or human crowd in a Caravan Palace's live in Paris). I developed an ABM tool originally for simulation of inflammatory response. This tool consists of four elements: 1) fixed agents (originally the epithelial cells), 2) mobile agents (originally the motile cells) 3) diffusion-reaction module (originally the cytokines dynamics) 4) elasticity and fiber module (originally represents fibrous protein, its growth, and the physics of elasticity). I currently attempt to co-opt this code for other problems, by repurposing each module. Latest attempt: simple cancer growth model.
-I am also interested in investigating inflammation (an ABM in general) as an information processing system.
+I am also interested in investigating inflammation (and ABM in general) as an information processing system.
 
 Materials Informatics
 ------
 
-By Materials Informatics, I mean a venture to study materials science with the lens of informatics and machine learning.
+By Materials Informatics, I mean a venture to study materials science using the lens of informatics and machine learning.
 For example, materials science deals with a lot of images of microstructure. These images contain a wide variety complex shapes, a lot of information to make sense of. How do we automate reasoning of these images? How do we automate translation of these images into a PDE/FEA model? Could these images tell us something about the environment that generates them?
 My latest work is image-based Finite Element Analysis where it cuts off the need for rebuilding the models of microstructure shape with CAD software (i.e. "the middle man") to have an appropriate FEA model.
+
 Materials science also involves a lot of inverse analysis because we cannot always probe a phenomenon due to physical barrier. This is the origin of Non-Destructive Evaluation (NDE). For example: investigation of corrosion in concrete wall or cracks in a bridge. Question arises as how much information is needed to properly decide the state of corrosion inside a wall, or progression of fractures inside a bridge. Informatics can help us determining and refining inverse analysis and NDE.
-Materials science studies the mechanics occurring in and on a material. Interestingly, these mechanics have inspired machine learning. Annealing is a staple of Materials Science 101, and due to its parallel with optimization, its simulation has been used to find local optima. Mesh and network are staples in today's computer graphics and data science. Due to their spring-like form, Hooke's law is used for network's visualization. What other mechanics in materials could inspire machine learning?
+
+Materials science studies the mechanics occurring in and on a material. Interestingly, these mechanics have inspired machine learning: 1) Annealing is a staple of Materials Science 101, and due to its parallel with optimization, its simulation has been used to find local optima. 2) Mesh and network are staples in today's computer graphics and data science. Due to their spring-like form, Hooke's law is used for network's visualization. What other mechanics in materials could inspire machine learning?
 
 <!-- Unconventional Methods in Materials Engineering Analysis
 ------
