@@ -8,8 +8,6 @@ date: 2020-12-15
 location: "Banda Aceh, Indonesia"
 ---
 
-List of my course in Fall 2020
-
 ### Basic of Calculus: Applications
 Topics covered:
 - Concepts of Rate of Change, Speed, and Growth
