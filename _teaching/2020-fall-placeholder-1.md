@@ -1,7 +1,7 @@
 ---
 title: "Fall 2020"
 collection: teaching
-type: "Undergraduate Course"
+type: "Undergraduate"
 permalink: /teaching/2020-fall-placeholder-1
 venue: "Universitas Syiah Kuala, Department of Mechanical Engineering"
 date: 2020-12-15
